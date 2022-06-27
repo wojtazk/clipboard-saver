@@ -1,7 +1,4 @@
 #  ![Clipboard-Saver-icon](https://user-images.githubusercontent.com/48928433/175969781-007d5cc7-6fd1-4208-b3f0-82469458268e.png) Clipboard-Saver
-<h3> Save data from clipboard quickly </h3>
-
-<hr>
 
 Note: Copied file/s will be saved as text in format: `C:\Path\To\File.exe`
 
@@ -9,7 +6,10 @@ Note: Copied file/s will be saved as text in format: `C:\Path\To\File.exe`
 
 .Exe was generated from .ps1 file with [ps2exe](https://github.com/MScholtes/PS2EXE)
 
-You can do that yourself with powershell: <br>
+<br>
+
+You can do that yourself with PowerShell <br>
+e.g.: <br>
 ```diff
 ps2exe .\Clipboard-Saver.ps1
 ```
@@ -17,7 +17,7 @@ ps2exe .\Clipboard-Saver.ps1
 
 <hr>
 
-I used: <br>
+I used this command: <br>
 ```diff
 ps2exe .\Clipboard-Saver.ps1 -noConsole -copyright "Wojciech Kowal" -version "1.0.0" -iconFile .\Clipboard-Saver-icon.ico
 ```
