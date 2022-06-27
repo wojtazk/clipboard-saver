@@ -1,5 +1,12 @@
 #  ![Clipboard-Saver-icon](https://user-images.githubusercontent.com/48928433/175969781-007d5cc7-6fd1-4208-b3f0-82469458268e.png) Clipboard-Saver
 
+<br>
+
+[Releases](https://github.com/WojTAzK/clipboard-saver/releases) <br><br>
+[Download .exe file](https://github.com/WojTAzK/clipboard-saver/releases/download/v1.0.0/Clipboard-Saver-EXE.zip)
+
+<hr>
+
 Note: Copied file/s will be saved as text in format: `C:\Path\To\File.exe`
 
 <hr>
