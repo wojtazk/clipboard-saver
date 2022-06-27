@@ -1,5 +1,11 @@
 #  ![Clipboard-Saver-icon](https://user-images.githubusercontent.com/48928433/175969781-007d5cc7-6fd1-4208-b3f0-82469458268e.png) Clipboard-Saver
-<h2> Save data from clipboard quickly </h2>
+<h3> Save data from clipboard quickly </h3>
+
+<hr>
+
+Note: Copied file/s will be saved as text in format: `C:\Path\To\File.exe`
+
+<hr>
 
 .Exe was generated from .ps1 file with [ps2exe](https://github.com/MScholtes/PS2EXE)
 
