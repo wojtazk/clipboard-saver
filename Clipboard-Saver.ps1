@@ -1,4 +1,4 @@
-﻿Add-Type -AssemblyName System.Windows.Forms
+Add-Type -AssemblyName System.Windows.Forms
 
 $clipboard = [System.Windows.Forms.Clipboard]
 $filter = ""
@@ -55,10 +55,10 @@ if($SaveFileDialog.ShowDialog() -eq "OK") {
 #
 ################## Saving file ###############################
 switch($type){
-    "Image" {$data.save($file);break}
-    "Text" {$data > $file;break}
-    "Audio" {[io.file]::WriteAllBytes($file, $data.ToArray());break}
-    "FileDropList" {$data > $file;break}
+    "Image" {$data.save($file);return}
+    "Text" {$data > $file;return}
+    "Audio" {[io.file]::WriteAllBytes($file, $data.ToArray());return}
+    "FileDropList" {$data > $file;return}
     default {return}
 }
 ##############################################################
