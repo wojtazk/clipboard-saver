@@ -32,7 +32,7 @@ if($clipboard::ContainsImage()){
     $notif.icon = [System.Drawing.SystemIcons]::Information
     $notif.visible = $true
     $notif.ShowBalloonTip(0,"", "No data in clipboard",[system.windows.forms.tooltipicon]::None)
-    return
+    Exit
 }
 ##############################################################
 #
@@ -48,18 +48,18 @@ if($SaveFileDialog.ShowDialog() -eq "OK") {
     # return selecter path
     $file = $SaveFileDialog.FileName
 }else{
-    return
+    Exit
 }
 ##############################################################
 #
 #
 ################## Saving file ###############################
 switch($type){
-    "Image" {$data.save($file);return}
-    "Text" {$data > $file;return}
-    "Audio" {[io.file]::WriteAllBytes($file, $data.ToArray());return}
-    "FileDropList" {$data > $file;return}
-    default {return}
+    "Image" {$data.save($file);Exit}
+    "Text" {$data > $file;Exit}
+    "Audio" {[io.file]::WriteAllBytes($file, $data.ToArray());Exit}
+    "FileDropList" {$data > $file;Exit}
+    default {Exit}
 }
 ##############################################################
 #
@@ -71,3 +71,5 @@ switch($type){
 
 # open explorer in the file location and select it
 # & explorer.exe /select,$file
+
+Exit
