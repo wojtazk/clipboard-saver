@@ -11,7 +11,7 @@ Note: Copied file/s will be saved as text in format: `C:\Path\To\File.exe`
 
 <hr>
 
-.Exe was generated from .ps1 file with [ps2exe](https://github.com/MScholtes/PS2EXE)
+.Exe was generated from .ps1 script with [ps2exe](https://github.com/MScholtes/PS2EXE)
 
 <br>
 
