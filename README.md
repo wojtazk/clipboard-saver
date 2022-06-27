@@ -3,7 +3,7 @@
 <br>
 
 [Releases](https://github.com/WojTAzK/clipboard-saver/releases) <br><br>
-[Download .exe file](https://github.com/WojTAzK/clipboard-saver/releases/download/v1.0.0/Clipboard-Saver-EXE.zip)
+[Download .exe file](https://github.com/WojTAzK/clipboard-saver/releases/download/v1.0.1/Clipboard-Saver-EXE.zip)
 
 <hr>
 
