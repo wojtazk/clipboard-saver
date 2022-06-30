@@ -36,3 +36,7 @@ ps2exe .\Clipboard-Saver.ps1 -noConsole -copyright "Wojciech Kowal" -version "1.
 <hr>
 
 You can get the Clipboard-Saver icon [here](https://flaticons.net/custom.php?i=w5QIeDTq6WkDszIWIxI4qt7Z5ePi6)
+
+<hr>
+
+[How to assign keyboard shortcut](https://github.com/WojTAzK/clipboard-saver/wiki/Assign-keyboard-shortcut)
