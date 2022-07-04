@@ -2,12 +2,13 @@
 
 <br>
 
-[Releases](https://github.com/WojTAzK/clipboard-saver/releases) 
+[Releases](https://github.com/WojTAzK/clipboard-saver/releases) - 
 version info: <br>
-
-- `Clipboard-Saver-EXE.zip - only .exe` | [Download .exe](https://github.com/WojTAzK/clipboard-saver/releases/download/v1.0.1/Clipboard-Saver-EXE.zip)
-- `Clipboard-Saver-PS1.zip - only .ps1` | [Download .ps1](https://github.com/WojTAzK/clipboard-saver/releases/download/v1.0.1/Clipboard-Saver-PS1.zip)
-- `Clipboard-Saver-EXE-PS1.zip - both .exe and .ps1` | [Download .exe & .ps1](https://github.com/WojTAzK/clipboard-saver/releases/download/v1.0.1/Clipboard-Saver-EXE-PS1.zip)
+|File name|Content|Direct link|
+|---|---|---|
+|`Clipboard-Saver-EXE.zip` | .exe | [Download .exe](https://github.com/WojTAzK/clipboard-saver/releases/download/v1.0.1/Clipboard-Saver-EXE.zip)|
+|`Clipboard-Saver-PS1.zip` | .ps1 | [Download .ps1](https://github.com/WojTAzK/clipboard-saver/releases/download/v1.0.1/Clipboard-Saver-PS1.zip)|
+|`Clipboard-Saver-EXE-PS1.zip` | .exe and .ps1 | [Download .exe & .ps1](https://github.com/WojTAzK/clipboard-saver/releases/download/v1.0.1/Clipboard-Saver-EXE-PS1.zip)|
 
 <hr>
 
