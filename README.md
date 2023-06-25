@@ -6,9 +6,9 @@
 version info: <br>
 |File name|Content|Direct link|
 |---|---|---|
-|`Clipboard-Saver-EXE.zip` | .exe | [Download .exe](https://github.com/WojTAzK/clipboard-saver/releases/download/v1.0.1/Clipboard-Saver-EXE.zip)|
-|`Clipboard-Saver-PS1.zip` | .ps1 | [Download .ps1](https://github.com/WojTAzK/clipboard-saver/releases/download/v1.0.1/Clipboard-Saver-PS1.zip)|
-|`Clipboard-Saver-EXE-PS1.zip` | .exe and .ps1 | [Download .exe & .ps1](https://github.com/WojTAzK/clipboard-saver/releases/download/v1.0.1/Clipboard-Saver-EXE-PS1.zip)|
+|`Clipboard-Saver.exe` | .exe | [Download .exe](https://github.com/wojtazk/clipboard-saver/releases/download/v1.0.2/Clipboard-Saver.exe)|
+|`Clipboard-Saver.ps1` | .ps1 | [Download .ps1](https://github.com/wojtazk/clipboard-saver/releases/download/v1.0.2/Clipboard-Saver.ps1)|
+|`Clipboard-Saver.zip` | .exe and .ps1 | [Download .exe & .ps1](https://github.com/wojtazk/clipboard-saver/releases/download/v1.0.2/Clipboard-Saver.zip)|
 
 <hr>
 
